@@ -78,7 +78,7 @@ attributes specified in the deliverables below.
 Write the following methods in the classes in the files provided. Feel free to
 build out any helper methods if needed.
 
-Deliverables use the notation `#` for instance methods, and `.` for class
+Deliverables use the notation `#` for instance methods, and `.` for class 
 methods.
 
 Remember: Active Record give your classes access to a lot of methods already!

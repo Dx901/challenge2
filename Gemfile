@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem "activerecord", "~> 6.1"
 
 gem 'puma'
-
+gem 'faker'
 # Configures common Rake tasks for working with Active Record
 # https://github.com/sinatra-activerecord/sinatra-activerecord
 gem "sinatra-activerecord"

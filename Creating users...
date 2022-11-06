@@ -1,0 +1,30 @@
+=> [[32m#<Review:0x0000560892d60bf0[0m
+  id: [1;34m1[0m,
+  star_rating: [1;34m5[0m,
+  comment: [31m[1;31m"[0m[31mGreat[1;31m"[0m[31m[0m,
+  product_id: [1;34m1[0m,
+  user_id: [1;34m1[0m[32m>[0m,
+ [32m#<Review:0x0000560892d60b28[0m
+  id: [1;34m2[0m,
+  star_rating: [1;34m5[0m,
+  comment: [31m[1;31m"[0m[31mFantastic[1;31m"[0m[31m[0m,
+  product_id: [1;34m3[0m,
+  user_id: [1;34m1[0m[32m>[0m,
+ [32m#<Review:0x0000560892d60a60[0m
+  id: [1;34m3[0m,
+  star_rating: [1;34m3[0m,
+  comment: [31m[1;31m"[0m[31mMeh[1;31m"[0m[31m[0m,
+  product_id: [1;34m1[0m,
+  user_id: [1;34m2[0m[32m>[0m,
+ [32m#<Review:0x0000560892d60998[0m
+  id: [1;34m4[0m,
+  star_rating: [1;34m1[0m,
+  comment: [31m[1;31m"[0m[31mBad[1;31m"[0m[31m[0m,
+  product_id: [1;34m2[0m,
+  user_id: [1;34m2[0m[32m>[0m,
+ [32m#<Review:0x0000560892d608d0[0m
+  id: [1;34m5[0m,
+  star_rating: [1;34m1[0m,
+  comment: [31m[1;31m"[0m[31mThe worst[1;31m"[0m[31m[0m,
+  product_id: [1;34m3[0m,
+  user_id: [1;34m2[0m[32m>[0m]
